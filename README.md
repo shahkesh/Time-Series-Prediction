@@ -1,2 +1,2 @@
 # Time-Series-Prediction
-Implementation of timeseries predictive models with public transport data.
+As part of my bachelors thesis i determined the requirements for a predictive model in public transport and implemented three predictive models based on a dataset from wiener-linien. The dataset contained hourly entry values for one bus route in Vienna. After EDA and correction the data was further processed into an LSTM, Prophet and ARIMA algorithm. Finally the prediction results were compared with real values. The jupyter notebook containing the code but without the original dataset will be linked after completion of the thesis.
